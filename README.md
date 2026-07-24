@@ -34,3 +34,6 @@ The main objectives of this project were to:
 4. *Enhance Product Assortment:* Continue promoting top-performing categories like fruits and vegetables, Dairy Products while exploring new product lines.
 5. *Improve Customer Experience:* Invest in customer loyalty programs and personalized recommendations to enhance satisfaction.
 6. *Capitalize on Medium-Sized Success:* It is also worth noting that our medium-sized outlets have outperformed the larger ones, This is an interesting data point to consider as we plan our future expansion
+
+
+<img width="944" height="537" alt="image" src="https://github.com/user-attachments/assets/19542e02-b373-47f7-8523-e934ac524ab3" />
